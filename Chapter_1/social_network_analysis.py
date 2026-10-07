@@ -131,6 +131,15 @@ def most_common_interests_with(user):
         )
 
 
+#find the most popular interests / word frequency
+words_and_counts = Counter(word for user, interest in interests
+                           for word in interest.lower().split())
+
+for word, count in words_and_counts.most_common():
+    if count > 1:
+        print(word, count)
+        
+
 
 
 
