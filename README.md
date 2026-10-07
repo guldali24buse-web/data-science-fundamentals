@@ -8,10 +8,6 @@ Navigate through the directories below to explore specific topics and code imple
 
 * **[Chapter 1: Network Analysis & Data Foundations](./Chapter_1)**
   * *Focus:* Social network analysis, user connections, and salary data parsing.
-* **[Chapter 2: Python for Data Science](./Chapter_2)**
-  * *Focus:* Object-oriented programming, data structures, and algorithm optimization.
-* **[Chapter 3: Data Visualization](./Chapter_3)**
-  * *Focus:* [Add a brief description here when ready]
 
 *(Note: This repository is continuously updated as new modules and analyses are completed.)*
 
