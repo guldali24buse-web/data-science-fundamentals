@@ -1,7 +1,6 @@
 # Data Science Fundamentals
 
  End-to-End Salary & Experience Analysis Pipeline
-<img width="402" height="282" alt="plot" src="https://github.com/user-attachments/assets/858a6f01-0883-4b1e-a705-dfb3b0bf1921" />
 
 **Project Overview**
 This module demonstrates a complete data science workflow, from raw data ingestion to machine learning classification. The primary objective is to analyze the relationship between user tenure and income, and predict account subscription status (Paid/Unpaid) using a multi-dimensional feature space.
