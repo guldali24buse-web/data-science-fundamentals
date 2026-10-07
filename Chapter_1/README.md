@@ -1,4 +1,4 @@
-### 📊 End-to-End Salary & Experience Analysis Pipeline
+###  End-to-End Salary & Experience Analysis Pipeline
 
 Project Overview
 This module demonstrates a complete data science workflow, from raw data ingestion to machine learning classification. The primary objective is to analyze the relationship between user tenure and income, and predict account subscription status (Paid/Unpaid) using a multi-dimensional feature space.
